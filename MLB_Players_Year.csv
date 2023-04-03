@@ -5159,9 +5159,9 @@ game_year,player_with_id,pitcher
 2023,Albert Abreu - 656061,656061
 2023,Clarke Schmidt - 657376,657376
 2023,Clay Holmes - 605280,605280
+2023,Colten Brewer - 605155,605155
 2023,Domingo German - 593334,593334
 2023,Gerrit Cole - 543037,543037
-2023,Jhony Brito - 666745,666745
 2023,Jimmy Cordero - 622772,622772
 2023,Jonathan Loaisiga - 642528,642528
 2023,Michael King - 650633,650633
@@ -5307,6 +5307,7 @@ game_year,player_with_id,pitcher
 2023,Logan Webb - 657277,657277
 2023,Ross Stripling - 548389,548389
 2023,Scott Alexander - 518397,518397
+2023,Sean Hjelle - 663546,663546
 2023,Sean Manaea - 640455,640455
 2023,Taylor Rogers - 573124,573124
 2023,Tyler Rogers - 643511,643511
@@ -5344,11 +5345,11 @@ game_year,player_with_id,pitcher
 2023,Dennis Santana - 642701,642701
 2023,Drew Smith - 622098,622098
 2023,John Curtiss - 595928,595928
-2023,Justin Verlander - 434378,434378
 2023,Kodai Senga - 673540,673540
 2023,Max Scherzer - 453286,453286
 2023,Stephen Nogosek - 668665,668665
 2023,Tommy Hunter - 488984,488984
+2023,Tylor Megill - 656731,656731
 2023,Aaron Nola - 605400,605400
 2023,Andrew Bellatti - 571479,571479
 2023,Andrew Vasquez - 607755,607755
@@ -5458,6 +5459,7 @@ game_year,player_with_id,pitcher
 2023,Dauri Moreta - 664294,664294
 2023,David Bednar - 670280,670280
 2023,Duane Underwood Jr. - 621249,621249
+2023,Edwin Uceta - 670955,670955
 2023,Johan Oviedo - 670912,670912
 2023,Jose Hernandez - 669796,669796
 2023,Mitch Keller - 656605,656605
@@ -5521,6 +5523,7 @@ game_year,player_with_id,pitcher
 2023,Andres Munoz - 662253,662253
 2023,Chris Flexen - 623167,623167
 2023,Diego Castillo - 650895,650895
+2023,Gabe Speier - 642100,642100
 2023,George Kirby - 669923,669923
 2023,Logan Gilbert - 669302,669302
 2023,Luis Castillo - 622491,622491
@@ -5529,5 +5532,4 @@ game_year,player_with_id,pitcher
 2023,Matt Festa - 670036,670036
 2023,Paul Sewald - 623149,623149
 2023,Penn Murfee - 682171,682171
-2023,Robbie Ray - 592662,592662
 2023,Trevor Gott - 641627,641627
