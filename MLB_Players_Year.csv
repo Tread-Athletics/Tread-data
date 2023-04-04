@@ -1875,6 +1875,7 @@ game_year,player_with_id,pitcher
 2019,Jake Jewell - 657228,657228
 2019,Adalberto Mejia - 606167,606167
 2019,Keynan Middleton - 641871,641871
+2019,Shohei Ohtani - 660271,660271
 2019,Felix Pena - 570240,570240
 2019,Dillon Peters - 596071,596071
 2019,JC Ramirez - 500724,500724
@@ -2711,6 +2712,7 @@ game_year,player_with_id,pitcher
 2020,Mike Mayers - 594577,594577
 2020,Keynan Middleton - 641871,641871
 2020,Hoby Milner - 571948,571948
+2020,Shohei Ohtani - 660271,660271
 2020,Felix Pena - 570240,570240
 2020,Dillon Peters - 596071,596071
 2020,Jose Quijada - 650671,650671
@@ -3511,6 +3513,7 @@ game_year,player_with_id,pitcher
 2021,Jose Marte - 665896,665896
 2021,Mike Mayers - 594577,594577
 2021,Packy Naughton - 676050,676050
+2021,Shohei Ohtani - 660271,660271
 2021,Oliver Ortega - 661383,661383
 2021,Elvis Peguero - 665625,665625
 2021,Felix Pena - 570240,570240
@@ -4466,6 +4469,7 @@ game_year,player_with_id,pitcher
 2022,Jose Marte - 665896,665896
 2022,Mike Mayers - 594577,594577
 2022,Brian Moran - 572383,572383
+2022,Shohei Ohtani - 660271,660271
 2022,Oliver Ortega - 661383,661383
 2022,Elvis Peguero - 665625,665625
 2022,Jose Quijada - 650671,650671
@@ -5196,6 +5200,7 @@ game_year,player_with_id,pitcher
 2023,Trevor May - 543507,543507
 2023,Zach Jackson - 667427,667427
 2023,A.J. Minter - 621345,621345
+2023,Bryce Elder - 693821,693821
 2023,Charlie Morton - 450203,450203
 2023,Collin McHugh - 543521,543521
 2023,Dylan Dodd - 689266,689266
@@ -5204,7 +5209,6 @@ game_year,player_with_id,pitcher
 2023,Joe Jimenez - 641729,641729
 2023,Kirby Yates - 489446,489446
 2023,Lucas Luetge - 476595,476595
-2023,Max Fried - 608331,608331
 2023,Michael Tonkin - 543859,543859
 2023,Nick Anderson - 623433,623433
 2023,Spencer Strider - 675911,675911
@@ -5245,6 +5249,7 @@ game_year,player_with_id,pitcher
 2023,Patrick Sandoval - 663776,663776
 2023,Reid Detmers - 672282,672282
 2023,Ryan Tepera - 572193,572193
+2023,Shohei Ohtani - 660271,660271
 2023,Tucker Davidson - 656353,656353
 2023,Tyler Anderson - 542881,542881
 2023,Andrew Chafin - 605177,605177
@@ -5288,13 +5293,13 @@ game_year,player_with_id,pitcher
 2023,Tyler Mahle - 641816,641816
 2023,A.J. Puk - 640462,640462
 2023,Andrew Nardi - 677053,677053
+2023,Braxton Garrett - 666129,666129
+2023,Daniel Castano - 641447,641447
 2023,Dylan Floro - 571670,571670
 2023,Edward Cabrera - 665795,665795
 2023,Huascar Brazoban - 623211,623211
 2023,JT Chargois - 608638,608638
-2023,Jeff Lindgren - 689167,689167
 2023,Jesus Luzardo - 666200,666200
-2023,Johnny Cueto - 456501,456501
 2023,Matt Barnes - 598264,598264
 2023,Sandy Alcantara - 645261,645261
 2023,Tanner Scott - 656945,656945
@@ -5360,9 +5365,9 @@ game_year,player_with_id,pitcher
 2023,Gregory Soto - 642397,642397
 2023,Jose Alvarado - 621237,621237
 2023,Matt Strahm - 621381,621381
+2023,McKinley Moore - 686842,686842
 2023,Seranthony Dominguez - 622554,622554
 2023,Taijuan Walker - 592836,592836
-2023,Yunior Marte - 628708,628708
 2023,Zack Wheeler - 554430,554430
 2023,Adbert Alzolay - 640470,640470
 2023,Brad Boxberger - 502202,502202
